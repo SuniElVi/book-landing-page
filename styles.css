@@ -8,3 +8,21 @@
   --box-shadow: 10px 10px 10px 5px rgba(0, 0, 0, 0.5);
   --card-background: rgba(0, 0, 0, 0.35);
 }
+
+body {
+  background-color: var(--background-color);
+  font-family: var(--body-font);
+}
+
+nav {
+  background-color: #000;
+  font-size: 20px;
+}
+
+.unactive {
+  color: #a9a29c;
+  opacity: 80%;
+}
+.active-link {
+  color: #a9a29c;
+}
