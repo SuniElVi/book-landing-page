@@ -1,0 +1,10 @@
+:root {
+  --background-color: #212121;
+  --text-color: #fff;
+  --head-font: "Cinzel", serif;
+  --body-font: "Philosopher", sans-serif;
+  --gold: #d4af37;
+  --silver: #c0c0c0;
+  --box-shadow: 10px 10px 10px 5px rgba(0, 0, 0, 0.5);
+  --card-background: rgba(0, 0, 0, 0.35);
+}
